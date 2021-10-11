@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alivc_common_height_tittle_48">48dp</dimen>
+    <dimen name="alivc_common_padding_16">16dp</dimen>
+    <dimen name="alivc_common_font_15">15sp</dimen>
+
+
+    <dimen name="alivc_common_line_1dp">1dp</dimen>
+
+    <dimen name="alivc_common_height_group_240">240dp</dimen>
+
+    <dimen name="alivc_common_margin_5">5dp</dimen>
+    <dimen name="alivc_common_font_13">13sp</dimen>
+    <dimen name="alivc_common_font_18">18sp</dimen>
+</resources>

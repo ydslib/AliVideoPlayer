@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="alivc_common_bg_white">#ffffffff</color>
+    <color name="alivc_common_font_gray_999">#999999</color>
+    <color name="alivc_common_font_red_wine">#FE4110</color>
+
+    <color name="alivc_common_bg_white_gray">#F5F5F5</color>
+    <color name="alivc_common_bg_black">#ff000000</color>
+    <color name="alivc_common_font_gray_333333">#333333</color>
+
+</resources>

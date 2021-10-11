@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alivc_common_cancel">Cancel</string>
+    <string name="alivc_common_confirm">Confirm</string>
+</resources>

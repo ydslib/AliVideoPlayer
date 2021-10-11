@@ -1,0 +1,5 @@
+rootProject.name = "MediaPlayer"
+include ':app'
+include ':Aliyunplayer'
+include ':AliyunplayerBase'
+include ':AliyunVideoCommon'
